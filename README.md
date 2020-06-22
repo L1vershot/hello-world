@@ -1,4 +1,6 @@
 # hello-world
 First Repository
 
-Just testing GitHub
+
+Testing github and doing the guide
+
